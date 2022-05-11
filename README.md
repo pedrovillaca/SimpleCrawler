@@ -1,3 +1,3 @@
 # SimpleCrawler
 
-Crawler with random site
+Crawler with random site, using xpath
